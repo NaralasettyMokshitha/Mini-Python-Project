@@ -1,2 +1,2 @@
 # Mini-Python-Project
-Countdown Timer
+Creating BMI caculator
